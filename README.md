@@ -1,4 +1,4 @@
-# These are example notebooks for the UCSC ASTR21 course.
+# This repository hosts example notebooks for the UCSC ASTR21 course.
 
 ## You can run the notebooks without needing to install any software using [Google Colab](https://colab.research.google.com/) in your web browser.
 
